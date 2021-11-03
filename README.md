@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kajajaronska
 - 👀 I’m interested in changing my career!
-- 🌱 I’m currently learning front-end development 
+- 🌱 I’m currently learning JavaScript!  
 - 💞️ I’m looking to collaborate on <!--- will let you know soon --->
 - 📫 How to reach me >> kaja.jaronska@gmail.com
 
